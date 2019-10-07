@@ -5,12 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: FORESTRY-README.md
-  label: Welcome - First Steps
+  path: db-preservation-core.md
+  label: Database Preservation Core
   read_only: true
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: ''
   label: Pages
