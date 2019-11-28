@@ -23,9 +23,9 @@ page_sections:
   headline: DBPTK <br><strong>Database Preservation Toolkit</strong>
   content: The tools to archive relational databases by saving all content into a specialized preservation format.
   cta:
-    enabled: false
-    url: https://github.com/keeps/db-preservation-toolkit
-    button_text: 'See on GitHub '
+    enabled: true
+    url: "#download"
+    button_text: 'Download now'
   image:
     image: "/uploads/2019/10/07/dbptk_vertical_white_small.png"
     alt_text: DBPTK
