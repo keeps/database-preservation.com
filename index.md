@@ -5,27 +5,26 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2019/11/28/keeps-logo-white-normal.png"
   navigation:
   - link: "/"
     link_text: Home
   - link: "#features"
     link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
+  - link: "#commercial"
+    link_text: Commercial services
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: "#download"
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: DBPTK <br><strong>Database Preservation Toolkit</strong>
+  content: The tools to archive relational databases by saving all content into a specialized preservation format.
   cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    enabled: false
+    url: https://github.com/keeps/db-preservation-toolkit
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2019/10/07/dbptk_vertical_white_small.png"
