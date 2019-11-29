@@ -35,6 +35,10 @@ page_sections:
   block: one-column-1
   headline: This site is under construction
   content: Get back soon for more awesome content!
+- template: 1-column-text
+  block: one-column-1
+  headline: Three tools in the toolkit
+  content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -49,6 +53,19 @@ page_sections:
     headline: DBPTK Developer
     content: A command-line tool and development library for automation and system
       integration.
+- template: hero-banner-w-image
+  block: hero-2
+  headline: DBPTK Desktop
+  content: Desktop application to save database to preservation format, validate it,
+    and browse and search the content
+  image:
+    image: "/uploads/2019/11/29/dbptk-desktop-browse-search.png"
+    alt_text: ''
+  background_image: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
