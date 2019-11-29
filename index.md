@@ -172,6 +172,16 @@ page_sections:
   media:
     image: "/uploads/2019/11/29/enterpriseAuthentication.png"
     alt_text: Authentication
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Browse and search<br></strong>Allow users to access database
+    content on the Web"
+  content: Allow them to search on a prepared, de-normalized and anonymized database
+    content.
+  media:
+    image: "/uploads/2019/11/29/enterpriseWebSearch.png"
+    alt_text: Web search
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
@@ -179,14 +189,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made by KEEP with ❤︎
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---
 foo bar
