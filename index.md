@@ -54,7 +54,7 @@ page_sections:
   content: Desktop application to save database to preservation format, validate it,
     and browse and search the content
   image:
-    image: "/uploads/2019/11/29/003-web-design.png"
+    image: "/uploads/2019/11/29/computer.svg"
     alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   cta:
