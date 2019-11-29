@@ -27,10 +27,6 @@ page_sections:
     image: "/uploads/2019/10/07/dbptk_vertical_white_small_notitle.png"
     alt_text: DBPTK
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: This site is under construction
-  content: Get back soon for more awesome content!
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -42,7 +38,9 @@ page_sections:
     headline: DBPTK Enterprise
     content: Web application to browse and search on the content of multiple large
       preserved databases.<br><a href="https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker"
-      title="DBPTK Enterprise docker install instructions">see instructions</a>
+      title="DBPTK Enterprise docker install instructions">see instructions</a> or
+      <a href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
+      request" title="DBPTK Enterprise install service">contact us</a>
   col_3:
     headline: DBPTK Developer
     content: A command-line tool and development library for automation and system
@@ -71,21 +69,22 @@ page_sections:
   media:
     image: "/uploads/2019/11/29/dbptk-desktop-dbms-list.png"
     alt_text: DBPTK Desktop
-- template: detail-content
-  block: text-1
-  headline: Download now
-  content: <p><strong>DBPTK Desktop </strong>download for <a href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
-    title="DBPTK Desktop latest release">Windows, MacOS and Linux</a>. </p><p><strong>DBPTK
-    Enterprise </strong>install <a href="https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker"
-    title="DBPTK Enterprise docker install instructions">instructions using docker</a>
-    or <a href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
-    request" title="Contact us">contact us</a> for production-level installation service.</p><p><strong>DBPTK
-    Developer </strong>download <a href="https://github.com/keeps/db-preservation-toolkit/releases/latest"
-    title="DBPTK Developer download Jar">latest version</a> check the <a href="https://github.com/keeps/db-preservation-toolkit#how-to-use"
-    title="DBPTK Developer how to use">how to use instructions</a>.</p>
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>SIARD validation<br></strong>Validate archived database"
+  content: Validate SIARD against specification plus many additional checks for a
+    thorough validation.
+  media:
+    image: "/uploads/2019/11/29/Captura de ecrã de 2019-11-29 12-13-59.png"
+    alt_text: Validator screenshot
+- template: 1-column-text
+  block: one-column-1
+  headline: This site is under construction
+  content: Get back soon for more awesome content!
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Made by KEEP with ❤︎
 
 ---
 foo bar
