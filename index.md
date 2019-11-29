@@ -182,6 +182,15 @@ page_sections:
   media:
     image: "/uploads/2019/11/29/enterpriseWebSearch.png"
     alt_text: Web search
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Export features<br></strong>Export data into tabular data"
+  content: Allow users to save search results in Microsoft Excel or other spreadsheet
+    software format for easy analytics and diagrams.
+  media:
+    image: "/uploads/2019/11/29/enterpriseExcel2.png"
+    alt_text: Microsoft Excel
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
