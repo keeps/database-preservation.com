@@ -98,6 +98,26 @@ page_sections:
     descriptions"
   content: Add descriptions to database, tables and columns to better understand its
     contents.
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Search records<br></strong>Browse and search database content"
+  content: Google-like search on the database content.<br>Drill down on specific tables
+    and do advanced search for specific fields to find exactly what you are looking
+    for.
+  media:
+    image: "/uploads/2019/11/29/desktopSearchAll.png"
+    alt_text: Search records
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Data load<br></strong>Import archived data into modern database
+    system"
+  content: Use the full query power of a modern database engine and enable advanced
+    analytics like data mining.
+  media:
+    image: "/uploads/2019/11/29/desktopDataLoad.png"
+    alt_text: Data Load
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
