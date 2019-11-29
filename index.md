@@ -40,15 +40,18 @@ page_sections:
   col_1:
     headline: DBPTK Desktop
     content: Desktop application to save database to preservation format, validate
-      it, and browse and search the content.
+      it, and browse and search the content. <br><a href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
+      title="DBPTK Desktop download for Windows, MacOS or Linux">download now</a>
   col_2:
     headline: DBPTK Enterprise
     content: Web application to browse and search on the content of multiple large
-      preserved databases.
+      preserved databases.<br><a href="https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker"
+      title="DBPTK Enterprise docker install instructions">see instructions</a>
   col_3:
     headline: DBPTK Developer
     content: A command-line tool and development library for automation and system
-      integration.
+      integration.<br><a href="https://github.com/keeps/db-preservation-toolkit#how-to-use"
+      title="DBPTK Developer how to use instructions">see instructions</a>
 - template: hero-banner-w-image
   block: hero-2
   headline: DBPTK Desktop
