@@ -71,7 +71,7 @@ page_sections:
     button_text: Download for Windows, MacOS or Linux
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>SIARD creation</strong><br>Export database to a preservation
     format"
   content: Connect to a local or remote database and save all content into a preservation
@@ -81,7 +81,7 @@ page_sections:
     alt_text: DBPTK Desktop
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>SIARD validation<br></strong>Validate archived database"
   content: Validate SIARD against specification plus many additional checks for a
     thorough validation.
@@ -90,9 +90,9 @@ page_sections:
     alt_text: Validator screenshot
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
-    image: "/uploads/2019/11/29/Captura de ecrã 2019-11-29, às 15.50.40.png"
+    image: "/uploads/2019/11/29/editSiard.png"
     alt_text: Edit SIARD
   headline: "<strong>Edit SIARD metadata<br></strong>Enrich archived database with
     descriptions"
