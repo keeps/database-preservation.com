@@ -36,24 +36,24 @@ page_sections:
   col_1:
     image: "/icons/black/svg/009-computer.svg"
     headline: Desktop
-    content: Desktop application to save database to archival format, validate
-      it and browse the content.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
+    content: Desktop application to save database to archival format, validate it
+      and browse the content.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
       title="DBPTK Desktop download for Windows, MacOS or Linux">Download</a>
   col_2:
     image: "/icons/black/svg/012-cluster.svg"
     headline: Enterprise
     content: Web application to browse and search on the content of multiple large
       preserved databases.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker"
-      title="DBPTK Enterprise docker install instructions">Read more</a> or
-      <a class="button primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
+      title="DBPTK Enterprise docker install instructions">Read more</a> or <a class="button
+      primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
       request" title="DBPTK Enterprise install service">Contact us</a>
   col_3:
     image: "/icons/black/svg/013-algorithm.svg"
     headline: Developer
     content: A command-line tool and development library for automation and system
       integration.<br><br><a class="button primary" href="https://github.com/keeps/db-preservation-toolkit#how-to-use"
-      title="DBPTK Developer how to use instructions">Read more</a> or
-      <a class="button primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
+      title="DBPTK Developer how to use instructions">Read more</a> or <a class="button
+      primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
       request" title="DBPTK custom development service">Contact us</a>
 - template: hero-banner-w-image
   block: hero-2
@@ -88,6 +88,16 @@ page_sections:
   media:
     image: "/uploads/2019/11/29/Captura de ecrã de 2019-11-29 12-13-59.png"
     alt_text: Validator screenshot
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2019/11/29/Captura de ecrã 2019-11-29, às 15.50.40.png"
+    alt_text: Edit SIARD
+  headline: "<strong>Edit SIARD metadata<br></strong>Enrich archived database with
+    descriptions"
+  content: Add descriptions to database, tables and columns to better understand its
+    contents.
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
