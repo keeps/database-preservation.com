@@ -58,8 +58,8 @@ page_sections:
       title="DBPTK Desktop download for Windows, MacOS or Linux">download now</a>
   col_2:
     image: ''
-    headline: ''
-    content: ''
+    headline: ENTERPRISE
+    content: Test
   col_3:
     image: ''
     headline: ''
