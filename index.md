@@ -1,11 +1,11 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+title: DBPTK
+date: 2019-11-29T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2019/11/28/keeps-logo-white-normal.png"
+  logo: "/uploads/2019/11/28/KEEPS_keeps_logo_black_en_vector.svg"
   navigation:
   - link: "/"
     link_text: Home
