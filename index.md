@@ -64,7 +64,7 @@ page_sections:
   image:
     image: "/icons/white/svg/009-computer.svg"
     alt_text: ''
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
   cta:
     enabled: true
     url: https://github.com/keeps/db-visualization-toolkit/releases/latest
@@ -130,8 +130,8 @@ page_sections:
     url: https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker
   background_image: ''
   image:
-    image: ''
-    alt_text: ''
+    image: "/icons/white/svg/012-cluster.svg"
+    alt_text: 'Enterprise'
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
