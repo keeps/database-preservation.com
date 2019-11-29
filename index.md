@@ -35,10 +35,6 @@ page_sections:
   block: one-column-1
   headline: This site is under construction
   content: Get back soon for more awesome content!
-- template: 1-column-text
-  block: one-column-1
-  headline: Three tools in the toolkit
-  content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -69,28 +65,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>DBPTK Desktop</strong>"
-  content: Desktop application to save database to preservation format, validate it,
-    and browse and search the content
+  headline: "<strong>SIARD creation</strong><br>Export database to a preservation
+    format"
+  content: Connect to a local or remote database and save all content into a preservation
+    format like SIARD.
   media:
-    image: "/uploads/2019/11/29/003-web-design.png"
+    image: "/uploads/2019/11/29/dbptk-desktop-dbms-list.png"
     alt_text: DBPTK Desktop
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
