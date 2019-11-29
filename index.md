@@ -162,6 +162,16 @@ page_sections:
   media:
     image: "/uploads/2019/11/29/enterpriseTransformation.png"
     alt_text: Data transformation
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Single sign-on<br></strong>Support for multiple protocols"
+  content: LDAP, Active Directory, Database, SAML, ADFS, OAuth2, OpenID, Google, Facebook,
+    Twitter, FIDO U2F, YubiKey, Google Authenticator, Authy, etc.<br>Supports internal
+    authorization definition or configurable external authorization.
+  media:
+    image: "/uploads/2019/11/29/enterpriseAuthentication.png"
+    alt_text: Authentication
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
@@ -169,14 +179,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made by KEEP with ❤︎
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
