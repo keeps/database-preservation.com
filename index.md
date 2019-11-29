@@ -203,14 +203,38 @@ page_sections:
   background_image: ''
   image:
     image: "/icons/white/svg/013-algorithm.svg"
-    alt_text: 'Developer'
-- template: 1-column-text
-  block: one-column-1
-  headline: This site is under construction
-  content: Get back soon for more awesome content!
+    alt_text: Developer
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Command line interface<br></strong>Automation of periodic preservation
+    tasks"
+  content: Command line interface allows easy automation of periodic tasks like saving
+    database to preservation format, validating, and editing metadata.
+  media:
+    image: "/uploads/2019/11/29/developerCLI.png"
+    alt_text: Command-line interface
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Systems integration<br></strong>Java library"
+  content: Library to allow integration of production systems to directly use database
+    preservation features.
+  media:
+    image: "/uploads/2019/11/29/developerMaven.png"
+    alt_text: Maven
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Open source<br></strong>For custom development"
+  content: Code base that allows custom development of new features or specialized
+    support for new or legacy database systems.
+  media:
+    image: "/uploads/2019/11/29/developerGithub.png"
+    alt_text: GitHub
 - template: simple-footer
   block: footer-1
-  content: Made by KEEP with ❤︎
+  content: Made by <a href="https://www.keep.pt" title="KEEP Site">KEEP</a> with ❤︎
 
 ---
 foo bar
