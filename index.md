@@ -57,7 +57,7 @@ page_sections:
   image:
     image: "/uploads/2019/11/29/dbptk-desktop-browse-search.png"
     alt_text: ''
-  background_image: ''
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   cta:
     enabled: true
     url: https://github.com/keeps/db-visualization-toolkit/releases/latest
