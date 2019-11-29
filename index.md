@@ -48,6 +48,22 @@ page_sections:
     content: A command-line tool and development library for automation and system
       integration.<br><a href="https://github.com/keeps/db-preservation-toolkit#how-to-use"
       title="DBPTK Developer how to use instructions">see instructions</a>
+- template: 3-column-text-image
+  block: three-column-1
+  col_1:
+    image: "/uploads/2019/11/29/003-web-design.svg"
+    headline: DESKTOP
+    content: Desktop application to save database to preservation format, validate
+      it, and browse and search the content.<br><a href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
+      title="DBPTK Desktop download for Windows, MacOS or Linux">download now</a>
+  col_2:
+    image: ''
+    headline: ''
+    content: ''
+  col_3:
+    image: ''
+    headline: ''
+    content: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: DBPTK Desktop
