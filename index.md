@@ -59,9 +59,9 @@ page_sections:
     alt_text: ''
   background_image: ''
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: https://github.com/keeps/db-visualization-toolkit/releases/latest
+    button_text: Download for Windows, MacOS or Linux
 - template: content-feature
   block: feature-1
   media_alignment: Left
