@@ -202,8 +202,8 @@ page_sections:
     enabled: true
   background_image: ''
   image:
-    image: ''
-    alt_text: ''
+    image: "/icons/white/svg/013-algorithm.svg"
+    alt_text: 'Developer'
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
