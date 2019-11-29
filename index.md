@@ -42,11 +42,13 @@ page_sections:
     content: Desktop application to save database to preservation format, validate
       it, and browse and search the content.
   col_2:
-    headline: ''
-    content: ''
+    headline: DBPTK Enterprise
+    content: Web application to browse and search on the content of multiple large
+      preserved databases.
   col_3:
-    headline: ''
-    content: ''
+    headline: DBPTK Developer
+    content: A command-line tool and development library for automation and system
+      integration.
 - template: content-feature
   block: feature-1
   media_alignment: Left
