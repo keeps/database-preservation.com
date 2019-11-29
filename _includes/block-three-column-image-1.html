@@ -1,19 +1,19 @@
-<section class="block block-three-column-image-1">
+<section class="block block-three-column-1">
   <div class="container">
     <div class="columns">
-      <div class="column">
-        <img src="{{ section.col_1.image | relative_url }}" alt="{{ section.col_1.caption }}">
-        <h3>{{ section.col_1.headline }}</h3>
+      <div class="column media">
+        <img src="{{ section.col_1.image | relative_url }}" alt="{{ section.col_1.caption }}" style="max-width: 50%;">
+        <h2>{{ section.col_1.headline }}</h2>
         <p>{{ section.col_1.content }}</p>
       </div>
-      <div class="column">
-        <img src="{{ section.col_2.image | relative_url }}" alt="{{ section.col_2.caption }}">
-        <h3>{{ section.col_2.headline }}</h3>
+      <div class="column media">
+        <img src="{{ section.col_2.image | relative_url }}" alt="{{ section.col_2.caption }}" style="max-width: 50%;">
+        <h2>{{ section.col_2.headline }}</h2>
         <p>{{ section.col_2.content }}</p>
       </div>
-      <div class="column">
-        <img src="{{ section.col_3.image | relative_url }}" alt="{{ section.col_3.caption }}">
-        <h3>{{ section.col_3.headline }}</h3>
+      <div class="column media">
+        <img src="{{ section.col_3.image | relative_url }}" alt="{{ section.col_3.caption }}" style="max-width: 50%;">
+        <h2>{{ section.col_3.headline }}</h2>
         <p>{{ section.col_3.content }}</p>
       </div>
     </div>
