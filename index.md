@@ -38,10 +38,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>DBPTK Desktop</strong>"
+  content: Desktop application to save database to preservation format, validate it,
+    and browse and search the content
   media:
     image: "/uploads/2019/11/29/003-web-design.png"
     alt_text: DBPTK Desktop
