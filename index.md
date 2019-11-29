@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/11/28/KEEPS_keeps_logo_black_en_vector.svg"
   navigation:
-  - link: "/"
+  - link: "#"
     link_text: Home
   - link: "#features"
     link_text: Features
