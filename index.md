@@ -27,7 +27,7 @@ page_sections:
     url: "#download"
     button_text: 'Download now'
   image:
-    image: "/uploads/2019/10/07/dbptk_vertical_white_small.png"
+    image: "/uploads/2019/10/07/dbptk_vertical_white_small_notitle.png"
     alt_text: DBPTK
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
