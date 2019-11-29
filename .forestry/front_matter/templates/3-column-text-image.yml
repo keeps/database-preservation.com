@@ -7,6 +7,9 @@ fields:
   label: block
   name: block
   default: three-column-image-1
+- type: text
+  name: slug
+  label: Slug
 - type: field_group
   name: col_1
   label: Column 1

@@ -18,6 +18,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
+  slug: dbptk
   headline: DBPTK <br><strong>Database Preservation Toolkit</strong>
   content: The tools to archive relational databases by saving all content into a
     specialized preservation format.
@@ -31,6 +32,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 3-column-text-image
   block: three-column-image-1
+  slug: download
   col_1:
     image: "/icons/black/svg/009-computer.svg"
     headline: Desktop
@@ -55,6 +57,7 @@ page_sections:
       request" title="DBPTK custom development service">Contact us</a>
 - template: hero-banner-w-image
   block: hero-2
+  slug: desktop
   headline: DBPTK Desktop
   content: Desktop application to save database to preservation format, validate it,
     and browse and search the content
