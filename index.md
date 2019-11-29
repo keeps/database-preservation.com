@@ -21,15 +21,20 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: DBPTK <br><strong>Database Preservation Toolkit</strong>
-  content: The tools to archive relational databases by saving all content into a specialized preservation format.
+  content: The tools to archive relational databases by saving all content into a
+    specialized preservation format.
   cta:
     enabled: true
     url: "#download"
-    button_text: 'Download now'
+    button_text: Download now
   image:
     image: "/uploads/2019/10/07/dbptk_vertical_white_small_notitle.png"
     alt_text: DBPTK
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: This site is under construction
+  content: Get back soon for more awesome content!
 - template: content-feature
   block: feature-1
   media_alignment: Left
