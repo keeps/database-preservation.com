@@ -131,7 +131,27 @@ page_sections:
   background_image: ''
   image:
     image: "/icons/white/svg/012-cluster.svg"
-    alt_text: 'Enterprise'
+    alt_text: Enterprise
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Enterprise Architecture<br></strong>For large institutions with
+    many databases and users"
+  content: A web application that can be horizontally scaled to support many very
+    large databases being accessed by many users.
+  media:
+    image: "/uploads/2019/11/29/enterpriseArchitecture.png"
+    alt_text: Enterprise architecture
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Manage multiple databases<br></strong>Single system, multiple
+    databases"
+  content: Search through the databases, manage their status, enrich their metadata,
+    validate them, make them ready for users to search.
+  media:
+    image: "/uploads/2019/11/29/enterpriseManagement.png"
+    alt_text: Enterprise management
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
