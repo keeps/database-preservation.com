@@ -152,6 +152,16 @@ page_sections:
   media:
     image: "/uploads/2019/11/29/enterpriseManagement.png"
     alt_text: Enterprise management
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Advanced data transformation<br></strong>Transform content to
+    answer useful questions"
+  content: "<strong>De-normalization</strong> and table and <strong>column hiding</strong>,
+    to simplify browsing/search and allow <strong>anonymization</strong> of content."
+  media:
+    image: "/uploads/2019/11/29/enterpriseTransformation.png"
+    alt_text: Data transformation
 - template: 1-column-text
   block: one-column-1
   headline: This site is under construction
@@ -159,6 +169,22 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made by KEEP with ❤︎
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
 foo bar
