@@ -43,7 +43,7 @@ page_sections:
     image: "/icons/black/svg/012-cluster.svg"
     headline: Enterprise
     content: Web application to browse and search on the content of multiple large
-      preserved databases.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker"
+      preserved databases.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit-docker#database-preservation-toolkit-enterprise-deploy-as-docker"
       title="DBPTK Enterprise docker install instructions">Read more</a> or <a class="button
       primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
       request" title="DBPTK Enterprise install service">Contact us</a>
@@ -127,7 +127,7 @@ page_sections:
   cta:
     enabled: true
     button_text: Read more
-    url: https://github.com/keeps/db-visualization-toolkit-docker#database-visualization-toolkit-docker
+    url: https://github.com/keeps/db-visualization-toolkit-docker#database-preservation-toolkit-enterprise-deploy-as-docker
   background_image: ''
   image:
     image: "/icons/white/svg/012-cluster.svg"
