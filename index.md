@@ -15,14 +15,13 @@ page_sections:
   - link: "#developer"
     link_text: Developer
   cta:
-    url: "#download"
-    button_text: Download
+    url: "https://www.keep.pt/en/contacts-proposals-information-telephone-address/"
+    button_text: Get support
 - template: hero-banner-w-image
   block: hero-2
   slug: dbptk
   headline: DBPTK <br><strong>Database Preservation Toolkit</strong>
-  content: The tools to archive relational databases by saving all content into a
-    specialized preservation format.
+  content:  Set of tools to store relational databases in a standard archival format.
   cta:
     enabled: false
     url: "#download"
@@ -37,31 +36,25 @@ page_sections:
   col_1:
     image: "/icons/black/svg/009-computer.svg"
     headline: Desktop
-    content: Desktop application to save database to archival format, validate it
-      and browse the content.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
+    content: Desktop application to store database to archival format, validate it and browse the content.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit/releases/latest"
       title="DBPTK Desktop download for Windows, MacOS or Linux">Download</a>
   col_2:
     image: "/icons/black/svg/012-cluster.svg"
     headline: Enterprise
-    content: Web application to browse and search on the content of multiple large
-      preserved databases.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit-docker#database-preservation-toolkit-enterprise-deploy-as-docker"
+    content: Web application to browse and search the content of multiple large archived databases.<br><br><a class="button primary" href="https://github.com/keeps/db-visualization-toolkit-docker#database-preservation-toolkit-enterprise-deploy-as-docker"
       title="DBPTK Enterprise docker install instructions">Read more</a> or <a class="button
-      primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
-      request" title="DBPTK Enterprise install service">Contact us</a>
+      primary" href="https://www.keep.pt/en/contacts-proposals-information-telephone-address/" title="Commercial support">Get support</a>
   col_3:
     image: "/icons/black/svg/013-algorithm.svg"
     headline: Developer
-    content: A command-line tool and development library for automation and system
-      integration.<br><br><a class="button primary" href="https://github.com/keeps/db-preservation-toolkit#how-to-use"
+    content: A command-line tool and development library for automation and systems integration.<br><br><a class="button primary" href="https://github.com/keeps/db-preservation-toolkit#how-to-use"
       title="DBPTK Developer how to use instructions">Read more</a> or <a class="button
-      primary" href="mailto:sales@keep.pt?subject=DBPTK Enterprise installation service
-      request" title="DBPTK custom development service">Contact us</a>
+      primary" href="https://www.keep.pt/en/contacts-proposals-information-telephone-address/" title="Commercial support">Get support</a>
 - template: hero-banner-w-image
   block: hero-2
   slug: desktop
   headline: DBPTK Desktop
-  content: Desktop application to save database to preservation format, validate it,
-    and browse and search the content
+  content: Desktop application to store database to archival format, validate it and browse the content.
   image:
     image: "/icons/white/svg/009-computer.svg"
     alt_text: ''
@@ -75,8 +68,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>SIARD creation</strong><br>Export database to a preservation
     format"
-  content: Connect to a local or remote database and save all content into a preservation
-    format like SIARD.
+  content: Connect to a local or remote database engine and store all content in an standard archival format such as SIARD.
   media:
     image: "/uploads/2019/11/29/dbptk-desktop-dbms-list.png"
     alt_text: DBPTK Desktop
@@ -103,9 +95,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>Search records<br></strong>Browse and search database content"
-  content: Google-like search on the database content.<br>Drill down on specific tables
-    and do advanced search for specific fields to find exactly what you are looking
-    for.
+  content: Google-like search on the entire database content.<br>Drill down on specific tables and filter for specific fields to find exactly what you are looking for.
   media:
     image: "/uploads/2019/11/29/desktopSearchAll.png"
     alt_text: Search records
@@ -123,8 +113,7 @@ page_sections:
   block: hero-2
   slug: enterprise
   headline: DBPTK Enterprise
-  content: Web application to browse and search on the content of multiple large preserved
-    databases.
+  content: Web application to browse and search the content of multiple large archived databases.
   cta:
     enabled: true
     button_text: Read more
@@ -138,8 +127,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Enterprise Architecture<br></strong>For large institutions with
     many databases and users"
-  content: A web application that can be horizontally scaled to support many very
-    large databases being accessed by many users.
+  content: A web application that can be horizontally scaled to support many large-sized databases, accessed by hundreds of  users simultaneaously.<br><br>Need help? <a href="https://www.keep.pt/en/contacts-proposals-information-telephone-address/">Get support</a>!
   media:
     image: "/uploads/2019/11/29/enterpriseArchitecture.png"
     alt_text: Enterprise architecture
@@ -148,8 +136,7 @@ page_sections:
   media_alignment: Left
   headline: "<strong>Manage multiple databases<br></strong>Single system, multiple
     databases"
-  content: Search through the databases, manage their status, enrich their metadata,
-    validate them, make them ready for users to search.
+  content: Search through the databases, manage their status, enrich their metadata, validate them, make them ready for your end users.
   media:
     image: "/uploads/2019/11/29/enterpriseManagement.png"
     alt_text: Enterprise management
@@ -158,7 +145,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Advanced data transformation<br></strong>Transform content to
     answer useful questions"
-  content: "<strong>De-normalization</strong> and table and <strong>column hiding</strong>,
+  content: "<strong>De-normalization</strong> and <strong>table/column hiding</strong>,
     to simplify browsing/search and allow <strong>anonymization</strong> of content."
   media:
     image: "/uploads/2019/11/29/enterpriseTransformation.png"
@@ -196,7 +183,7 @@ page_sections:
   block: hero-2
   slug: developer
   headline: DBPTK Developer
-  content: A command-line tool and development library for automation and system integration.
+  content: A command-line tool and development library for automation and systems integration.
   cta:
     button_text: Read more
     url: https://github.com/keeps/db-preservation-toolkit#how-to-use
@@ -211,7 +198,7 @@ page_sections:
   headline: "<strong>Command line interface<br></strong>Automation of periodic preservation
     tasks"
   content: Command line interface allows easy automation of periodic tasks like saving
-    database to preservation format, validating, and editing metadata.
+    database to archival format, validating, and editing metadata.
   media:
     image: "/uploads/2019/11/29/developerCLI.png"
     alt_text: Command-line interface
@@ -229,7 +216,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Open source<br></strong>For custom development"
   content: Code base that allows custom development of new features or specialized
-    support for new or legacy database systems.
+    support for new or legacy database systems.<br><br>Need a new feature? <a href="https://www.keep.pt/en/contacts-proposals-information-telephone-address/">Get support</a>!
   media:
     image: "/uploads/2019/11/29/developerGithub.png"
     alt_text: GitHub
