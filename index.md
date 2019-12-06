@@ -129,7 +129,7 @@ page_sections:
     many databases and users"
   content: A web application that can be horizontally scaled to support many large-sized databases, accessed by hundreds of  users simultaneaously.<br><br>Need help? <a href="https://www.keep.pt/en/contacts-proposals-information-telephone-address/">Get support</a>!
   media:
-    image: "/uploads/2019/11/29/enterpriseArchitecture.png"
+    image: "/uploads/2019/11/29/enterpriseArchitecture.svg"
     alt_text: Enterprise architecture
 - template: content-feature
   block: feature-1
