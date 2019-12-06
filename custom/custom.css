@@ -1,0 +1,46 @@
+.block-header-2 {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+    z-index: 1;
+}
+
+/* TODO media query to disable fixed header on mobile */
+
+@media only screen and (max-width: 600px) {
+    .block-header-2--logo {
+        display: none;
+    }
+
+    header.block.block-header-2 {
+        padding: 1rem;
+    }
+
+    .block-hero-2 .column.media {
+        order: 1;
+    }
+
+    .block-hero-2 .column.text {
+        order: 2;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .block-hero-2 .column.media {
+        -ms-flex: 0 0 48%;
+        flex: 0 0 48%;
+    }
+
+    .block-hero-2 .column.media img {
+        width: 40vw;
+    }
+}
+
+.button {
+    line-height: 40px;
+}
+
+.button.small {
+    line-height: 1em;
+}

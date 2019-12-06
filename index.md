@@ -2,6 +2,7 @@
 layout: blocks
 title: DBPTK
 date: 2019-11-29T23:00:00.000+00:00
+baseurl: https://www.database-preservation.com
 page_sections:
 - template: navigation-header-w-button
   block: header-2
